@@ -1,4 +1,7 @@
 Hello Git.
 It's new line.
 Add new line.
-Add new line 2.
+Add new line 2. Branch
+Rebase from dev.
+Reabase from dev 1.
+Reabase from dev 2.
